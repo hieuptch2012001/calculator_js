@@ -1,0 +1,29 @@
+#answer {
+  width: 320px;
+  border-radius: 13px;
+  box-shadow: inset 5px 5px 3px grey, inset -5px -5px 3px white;
+}
+
+.calc {
+  background: rgb(230, 230, 230);
+  padding: 10px;
+  display: inline-block;
+  border-radius: 20px;
+  box-shadow: 5px 5px 3px grey, -5px -5px 5px grey;
+}
+
+input {
+  font-size: 30px;
+  width: 70px;
+  height: 60px;
+  margin: 5px;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 5px 5px 3px grey, -5px -5px 5px white;
+  background: rgb(230, 230, 230);
+  outline: none;
+}
+
+input:hover {
+  box-shadow: inset 5px 5px 3px grey, inset -5px -5px 5px white;
+}

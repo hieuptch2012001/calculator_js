@@ -1,0 +1,115 @@
+body {
+  font-size: 30px;
+  font-family: Roboto;
+}
+
+.rec {
+  position: absolute;
+  width: 424px;
+  height: 506px;
+  left: 0px;
+  top: 0px;
+  background: #ffffff;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  margin: 9% 0 0 37%;
+}
+
+#result {
+  position: absolute;
+  width: 373px;
+  height: 85px;
+  left: 25px;
+  top: 20px;
+  text-align: right;
+  background: rgba(196, 196, 196, 0.21);
+  border: 1px solid rgba(122, 65, 65, 0.09);
+  box-sizing: border-box;
+}
+
+.number {
+  position: absolute;
+  width: 85px;
+  height: 56px;
+  background: rgba(196, 196, 196, 0.7);
+  border: none;
+}
+.sum {
+  left: 25px;
+  top: 119px;
+}
+.sub {
+  left: 121px;
+  top: 119px;
+}
+.mul {
+  left: 217px;
+  top: 119px;
+}
+.divi {
+  left: 313px;
+  top: 119px;
+}
+.number_7 {
+  left: 25px;
+  top: 194px;
+}
+.number_8 {
+  left: 121px;
+  top: 194px;
+}
+.number_9 {
+  left: 217px;
+  top: 194px;
+}
+.equal {
+  position: absolute;
+  width: 82px;
+  height: 279px;
+  left: 316px;
+  top: 194px;
+  color: #fff;
+  background: #4d90fe;
+  border: none;
+}
+.number_4 {
+  left: 25px;
+  top: 267px;
+}
+.number_5 {
+  left: 121px;
+  top: 267px;
+}
+.number_6 {
+  left: 217px;
+  top: 267px;
+}
+.number_1 {
+  left: 25px;
+  top: 342px;
+}
+.number_2 {
+  left: 121px;
+  top: 342px;
+}
+.number_3 {
+  left: 217px;
+  top: 342px;
+}
+.number_0 {
+  left: 25px;
+  top: 417px;
+}
+.dots {
+  left: 121px;
+  top: 417px;
+}
+.cle {
+  position: absolute;
+  width: 85px;
+  height: 56px;
+  background: rgba(196, 196, 196, 0.7);
+  left: 217px;
+  top: 417px;
+  border: none;
+}
